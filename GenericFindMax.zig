@@ -1,8 +1,10 @@
 //! Created October 11th, 2024 (12:21 PM)
+//! 
 //! I'm using the book "Data Structures & Algorithm Analysis in Java" by
 //! Mark Allen Weiss (because I still have it from my college days) to implement
 //! algorithms & the such for the purpose of learning Zig.
-//! This files is just an exercise implementing a basic "Find Max" algorithm for
+//! 
+//! This file is just an exercise implementing a basic "Find Max" algorithm for
 //! finding the largest value in an array of integer. It is linear, so it simply
 //! take the 1st value of the array, compares it to the 2nd value, stores the
 //! larger value in the 'max' variable, & walks through the entire array in
