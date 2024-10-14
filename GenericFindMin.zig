@@ -4,7 +4,7 @@
 //! Mark Allen Weiss (because I still have it from my college days) to implement
 //! algorithms & the such for the purpose of learning Zig.
 //!
-//! This files is just an exercise implementing a basic "Find Min" algorithm for
+//! This file is just an exercise implementing a basic "Find Min" algorithm for
 //! finding the smallest value in an array of integer. It is linear, so it simply
 //! take the 1st value of the array, compares it to the 2nd value, stores the
 //! smaller value in the 'min' variable, & walks through the entire array in
